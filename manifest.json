@@ -1,0 +1,10 @@
+{
+    "id": "org.github.clipboard",
+    "version": "1.0.0",
+    "name": "My Clipboard",
+    "description": "Personal DDL Player",
+    "resources": ["catalog", "meta", "stream"],
+    "types": ["movie"],
+    "catalogs": [{"type": "movie", "id": "clipboard_cat", "name": "Clipboard"}],
+    "idPrefixes": ["clip"]
+}
