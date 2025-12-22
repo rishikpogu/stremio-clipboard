@@ -1,0 +1,9 @@
+{
+    "metas": [{
+        "id": "clip_001",
+        "type": "movie",
+        "name": "🔴 PLAY CURRENT LINK",
+        "poster": "https://cdnb.artstation.com/p/assets/images/images/019/040/207/large/trey-hurley-killbillposter.jpg",
+        "description": "Click to play your saved link."
+    }]
+}
