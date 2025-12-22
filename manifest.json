@@ -6,6 +6,6 @@
     "resources": ["catalog", "meta", "stream"],
     "types": ["movie"],
     "catalogs": [{"type": "movie", "id": "clipboard_cat", "name": "Clipboard"}],
-    "idPrefixes": ["clip"]
+    "idPrefixes": ["clip"],
     "cache": 0
 }
