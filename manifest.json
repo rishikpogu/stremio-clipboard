@@ -7,4 +7,5 @@
     "types": ["movie"],
     "catalogs": [{"type": "movie", "id": "clipboard_cat", "name": "Clipboard"}],
     "idPrefixes": ["clip"]
+    "cache": 0
 }
